@@ -5,6 +5,6 @@ class Calc{
   }
   
   public static void main(String []args){
-  add(10,20);
+  System.out.print(add(10,20));
   }
 }
